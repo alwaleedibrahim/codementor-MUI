@@ -1,0 +1,13 @@
+footer h5{
+    font-size: smaller;
+}
+
+.footer-icon-li {
+    padding: 5px;
+}
+
+footer li {
+    width: fit-content !important;
+
+    text-align: center !important;
+}
